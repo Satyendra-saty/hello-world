@@ -1,2 +1,6 @@
 # hello-world
-It's my first project on this repository.
+
+Hi People,
+
+This is saty! 
+I am java programmer but newbie here in github.
